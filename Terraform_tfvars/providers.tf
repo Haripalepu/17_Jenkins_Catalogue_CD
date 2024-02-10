@@ -9,7 +9,7 @@ terraform {
 
   backend "s3" { 
      bucket = "terraform-env--dev"
-     key    = "Catalogue_CD"
+     key    = "17_Catalogue_CD"
      region = "us-east-1"
      dynamodb_table = "Terraform-env-dev"
   }
