@@ -16,4 +16,4 @@ module "catalogue" {
 }
 
 
-#To check user is connecting or not user.alb-dev.haripalepu.cloud/health
+#To check user is connecting or not catalogue.alb-dev.haripalepu.cloud/health

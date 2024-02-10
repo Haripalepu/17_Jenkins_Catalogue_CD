@@ -11,7 +11,7 @@ variable "common_tags" {
 
 variable "tags" {
   default = {
-    component = "catalogue"
+    host_name = "catalogue"
   }
 }
 
