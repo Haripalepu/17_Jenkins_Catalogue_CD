@@ -27,5 +27,12 @@ Create Catalogue CD
 
 
 
+###########
+The Jenkins-Apply file is only to create the infrastructure 
+The Jenkins file is for both apply and destroy
+
+
+
+
 
 
