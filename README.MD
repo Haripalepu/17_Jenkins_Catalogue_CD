@@ -5,6 +5,7 @@ Create catalogue CI:
  Create Jenkinsfile-Point this jenkins file to Shared Liraries. Make sure to configure the share libraries in manage jenkins--system configration.
  It will call the shared libraries.
 
+
  Then the CI process will start:
   Get the app version from package.json
   Clone 
